@@ -1,6 +1,6 @@
 <?php
 
-namespace MeeeetDev\Shiprocket\Resources;
+namespace ItsmeManoj\Shiprocket\Resources;
 
 class ShipmentResource extends Resource
 {
