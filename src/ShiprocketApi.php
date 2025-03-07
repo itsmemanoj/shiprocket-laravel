@@ -1,20 +1,20 @@
 <?php
 
-namespace MeeeetDev\Shiprocket;
+namespace ItsmeManoj\Shiprocket;
 
-use MeeeetDev\Shiprocket\Clients\ShiprocketClient;
-use MeeeetDev\Shiprocket\Resources\ChannelResource;
-use MeeeetDev\Shiprocket\Resources\CourierResource;
-use MeeeetDev\Shiprocket\Resources\GenerateResource;
-use MeeeetDev\Shiprocket\Resources\NdrResource;
-use MeeeetDev\Shiprocket\Resources\OrderResource;
-use MeeeetDev\Shiprocket\Resources\PickupResource;
-use MeeeetDev\Shiprocket\Resources\ProductResource;
-use MeeeetDev\Shiprocket\Resources\ReturnResource;
-use MeeeetDev\Shiprocket\Resources\ShipmentResource;
-use MeeeetDev\Shiprocket\Resources\TrackingResource;
-use MeeeetDev\Shiprocket\Resources\WarehouseResource;
-use MeeeetDev\Shiprocket\Traits\Authenticate;
+use ItsmeManoj\Shiprocket\Clients\ShiprocketClient;
+use ItsmeManoj\Shiprocket\Resources\ChannelResource;
+use ItsmeManoj\Shiprocket\Resources\CourierResource;
+use ItsmeManoj\Shiprocket\Resources\GenerateResource;
+use ItsmeManoj\Shiprocket\Resources\NdrResource;
+use ItsmeManoj\Shiprocket\Resources\OrderResource;
+use ItsmeManoj\Shiprocket\Resources\PickupResource;
+use ItsmeManoj\Shiprocket\Resources\ProductResource;
+use ItsmeManoj\Shiprocket\Resources\ReturnResource;
+use ItsmeManoj\Shiprocket\Resources\ShipmentResource;
+use ItsmeManoj\Shiprocket\Resources\TrackingResource;
+use ItsmeManoj\Shiprocket\Resources\WarehouseResource;
+use ItsmeManoj\Shiprocket\Traits\Authenticate;
 
 class ShiprocketApi
 {
