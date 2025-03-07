@@ -1,9 +1,9 @@
 <?php
 
-namespace MeeeetDev\Shiprocket\Traits;
+namespace ItsmeManoj\Shiprocket\Traits;
 
-use MeeeetDev\Shiprocket\Clients\Client;
-use MeeeetDev\Shiprocket\Exceptions\ShiprocketException;
+use ItsmeManoj\Shiprocket\Clients\Client;
+use ItsmeManoj\Shiprocket\Exceptions\ShiprocketException;
 
 trait Authenticate
 {
