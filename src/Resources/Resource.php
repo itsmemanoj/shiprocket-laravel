@@ -1,8 +1,8 @@
 <?php
 
-namespace MeeeetDev\Shiprocket\Resources;
+namespace ItsmeManoj\Shiprocket\Resources;
 
-use MeeeetDev\Shiprocket\Clients\Client;
+use ItsmeManoj\Shiprocket\Clients\Client;
 
 abstract class Resource implements ResourceInterface
 {
