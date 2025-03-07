@@ -1,6 +1,6 @@
 <?php
 
-namespace MeeeetDev\Shiprocket;
+namespace ItsmeManoj\Shiprocket;
 
 interface Wrapper
 {
